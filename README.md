@@ -1,7 +1,7 @@
 # ue_test_content_proj
 
 # Analytic Fog
-  reference to https://blog.mmacklin.com/2010/05/29/in-scattering-demo/
+  reference https://blog.mmacklin.com/2010/05/29/in-scattering-demo/
 
   球 及び 球面円錐 に対するレイの通過経路上でのInscatterをレイマーチではなく解析的に計算するフォグのUEマテリアル実装です.
   
