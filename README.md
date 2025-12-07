@@ -1,5 +1,10 @@
 # ue_test_content_proj
 
+<br/>!注意!<br/>
+UE5.7環境のテンプレートシーンへ移行しました<br/>
+https://github.com/nagakagachi/ue_dev_bp_5_7
+<br/>
+
 # Analytic Fog
   reference https://blog.mmacklin.com/2010/05/29/in-scattering-demo/
 
